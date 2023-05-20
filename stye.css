@@ -1,81 +1,16 @@
 /* Estilos comuns para todas as telas */
- {screen and (device-width: 390px) and (device-height: 844px){*}
-        margin: 0;
-        padding: 0;}
-
-.cabeçalho {
-     background-color: #F08080(45, 52, 75);
-     color:red;
-     display: flex;
-     justify-content: space-around;
-     padding: 15px 0;
-     font-family: 'Ubuntu', sans-serif;
-     position: fixed;
-     top: 0;
-     width: 100%;}
-
-.cabeçalho-imagem {
-     width: 80px;
-     border-radius: 50%;
-     padding: 5px 5px;
-     height: 80px;
-     margin: 25% 0;}
-
-.foto-corpo {
-     width: 30%;}
-
-#corpo {
-     background-color: rgb(26, 31, 48);
-     color: white;
-     display: flex;
-     justify-content: center;
-     align-items: center;
-     padding: 30px 0;
-     padding-top: 350px;}
-
-.cabeçalho-lista-item {
-     display: inline-block;
-     margin: 0 25px;
-     font-size: 20px;
-     padding: 15px 0px;}
-                        
-.texto-cabecalho {
-     display: flex;
-     font-size: 20px;
-     margin: 27px 0px;
-     width: 100%;
-     padding: 10px;
-     align-items: center;}
-                        
-.corpo-div-conteudo {
-     width: 35%;
-     font-family: 'Ubuntu', sans-serif;
-     line-height: 1.8;}
-                        
-.paragrafo-um {
-     text-align: justify;}
-                        
-#quem-somos {
-     font-family: 'Ubuntu', sans-serif;
-     color: white;
-     text-align: center;
-     padding: 25px 0;
-     background: #181818;}
-                        
-.quem-somos-titulo a {
-     text-align: center;}
-                        
-.alunos-div {
-     text-align: center;
-     padding: 50px 0;}
-                        
-.alunos-todos {
-     display: grid;
-     grid-template-columns: 25% 25% 25% 25%;}
-                        
-.alunos-fotos {
-     width: 120px;
-     padding: 0px 0px 20px 0px;}
-                        
+ 
+header{background-color: #F08080; color:red} 
+.logo{width: 10%;} 
+.Alanis{width: 20%;
+border-radius: 20px;}
+.Ana{width: 20%;
+border-radius: 20px;}
+.Michelly{width: 20%;
+border-radius: 20px;}
+.Sophia{width: 20%;
+border-radius: 20px;}
+body{background-color: #ffcbdb;color: red;}
+footer{background-color: #F08080; color: red;}
 
 
