@@ -1,13 +1,13 @@
 /* Estilos comuns para todas as telas */
 /* ... */
-<screen and (device-width: 390px) and (device-height: 844px){
-    * {>
+screen (device-width: 390px) and (device-height: 844px){
+    * {
         margin: 0;
         padding: 0;
     }
 
     .cabeçalho {
-        background-color: rgb(45, 52, 75);
+        background-color: #ffcbdb (45, 52, 75);
         color: white;
         display: flex;
         justify-content: space-around;
