@@ -1,5 +1,5 @@
 /* Estilos comuns para todas as telas */
- {screen and (device-width: 390px) and (device-height: 844px)
+ {screen and (device-width: 390px) and (device-height: 844px){*}
         margin: 0;
         padding: 0;}
 
