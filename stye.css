@@ -15,7 +15,7 @@ screen (device-width: 390px) and (device-height: 844px){
         font-family: 'Ubuntu', sans-serif;
         position: fixed;
         top: 0;
-        width: 100%;
+        width: 20%;
     }
 
     .cabeçalho-imagem {
