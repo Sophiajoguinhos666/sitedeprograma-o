@@ -1,22 +1,7 @@
-
-header{background-color: #F08080; color:red} 
-.logo{width: 10%;} 
-.Alanis{width: 20%;
-border-radius: 20px;}
-.Ana{width: 20%;
-border-radius: 20px;}
-.Michelly{width: 20%;
-border-radius: 20px;}
-.Sophia{width: 20%;
-border-radius: 20px;}
-body{background-color: #ffcbdb;color: red;}
-footer{background-color: #F08080; color: red;}
-
-
 /* Estilos comuns para todas as telas */
 /* ... */
-@media screen and (device-width: 390px) and (device-height: 844px){
-    * {
+<screen and (device-width: 390px) and (device-height: 844px){
+    * {>
         margin: 0;
         padding: 0;
     }
