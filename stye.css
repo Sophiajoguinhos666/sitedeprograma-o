@@ -9,6 +9,10 @@ border-radius: 20px;}
 border-radius: 20px;}
 .Sophia{width: 20%;
 border-radius: 20px;}
+.alunos-todos {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
 body{background-color: #ffcbdb;color: red;}
 footer{background-color: #F08080; color: red;}
 form {background-color: #ed0a9a; color: black;}
