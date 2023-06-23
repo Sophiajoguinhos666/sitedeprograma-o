@@ -1,3 +1,11 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
 header{background-color: #F08080; color:red} 
 .logo{width: 10%;} 
 .HelloKitty{width: 10%;}
