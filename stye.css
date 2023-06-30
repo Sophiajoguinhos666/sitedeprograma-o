@@ -5,14 +5,14 @@
 header{background-color: #F08080; color:red} 
 .logo{width: 10%;} 
 .HelloKitty{width: 10%;}
-.Alanis{width: 20%;
-border-radius: 20px;}
-.Ana{width: 20%;
-border-radius: 20px;}
-.Michelly{width: 20%;
-border-radius: 20px;}
-.Sophia{width: 20%;
-border-radius: 20px;}
+.Alanis{width: 25%;
+border-radius: 25px;}
+.Ana{width: 25%;
+border-radius: 25px;}
+.Michelly{width: 25%;
+border-radius: 25px;}
+.Sophia{width: 25%;
+border-radius: 205px;}
 .alunos-todos {
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
